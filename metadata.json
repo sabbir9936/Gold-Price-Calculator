@@ -1,0 +1,6 @@
+{
+  "name": "Gold Price Calculator",
+  "description": "একটি লাইভ স্বর্ণের দাম হিসাব করার ক্যালকুলেটর (ভরি, আনা, রতি ও পয়েন্ট পরিমাপে)।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
